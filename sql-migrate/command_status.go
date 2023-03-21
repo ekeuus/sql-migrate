@@ -8,7 +8,7 @@ import (
 	"time"
 
 	"github.com/olekukonko/tablewriter"
-	migrate "github.com/rubenv/sql-migrate"
+	migrate "github.com/ekeuus/sql-migrate"
 )
 
 type StatusCommand struct {

@@ -10,7 +10,7 @@ import (
 	"runtime/debug"
 
 	"github.com/go-gorp/gorp/v3"
-	migrate "github.com/rubenv/sql-migrate"
+	migrate "github.com/ekeuus/sql-migrate"
 	"gopkg.in/yaml.v2"
 
 	_ "github.com/go-sql-driver/mysql"
